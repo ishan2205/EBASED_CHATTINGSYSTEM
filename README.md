@@ -1,4 +1,4 @@
 # EBASED_CHATTINGSYSTEM
-E-based Chatting System  which includes the following features-
--Secured Hash Authentication
+E-based Chatting System  which includes the following features- <br>
+-Secured Hash Authentication <br>
 -Secured Chat using Socket Programming
